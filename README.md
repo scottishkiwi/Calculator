@@ -1,6 +1,7 @@
 # Calculator
-HTML, CSS and Vanilla JS Calculator 
+HTML, CSS and Vanilla JavaScript Calculator 
 
-A fun implementation to see how long it would take to build a simple calculator out of HTML, CSS and Vanilla JS. Was inspired to try this after discovering that Javascripts eval() function takes a string of numbers and operations, and evaluates them for you. 
+A fun implementation to build a simple calculator out of HTML, CSS and Vanilla JS. Was inspired to try this after reading about the Javascripts eval() function takes a string of numbers and operations, and evaluates them for you. 
+Design based on the original Apply iPhone calculator UI. 
 
-To run, download HTML, CSS and JS files and open index.html in a browser. 
+To use: https://scottishkiwi.github.io/Calculator/
